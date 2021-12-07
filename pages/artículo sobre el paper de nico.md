@@ -1,0 +1,8 @@
+- [[@venturelli_2021_ConceptualChangeVisual]]
+- # Nuevo artículo de investigación: Las neuronas sensoriales
+  #Comunicacion_IDH 
+  En el mes de noviembre fue publicado en la revista [_International Studies in the Philosophy of Science_ un artículo](https://www.tandfonline.com/doi/full/10.1080/02698595.2021.2002675) de A. Nicolás Venturelli, investigador de nuestro instituto del área de Filosofía.
+  Sus temas de investigación giran en torno a las prácticas experimentales en las neurociencias cognitivas y el artículo, titulado _Conceptual Change in Visual Neuroscience: The Receptive Field Concept_, se enfoca en el concepto de campo receptivo de una neurona sensorial. Según el autor, es un caso prominente que permite analizar cómo se producen cambios conceptuales en la historia de la disciplina.  
+  De esta forma, el argumento del trabajo afirma que la contribución principal al campo de la neurociencia visual fue establecer una agenda de problemas para las primeras etapas de investigación experimental en procesamiento visual. Así fue como se fueron estructurando las prácticas experimentales entre campos científicos convergentes.
+  La apuesta fuerte del artículo está en reubicar la centralidad del concepto, que ha perdido fuerza y claridad en épocas más recientes.
+  Quienes estén interesades en obtener una copia del artículo, pueden escribir a comunicacion.idhcordoba@gmail.com para hacerles llegar una de las que dispone el autor.
